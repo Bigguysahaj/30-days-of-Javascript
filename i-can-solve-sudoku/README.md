@@ -1,4 +1,4 @@
-This project won't work as planned because I took out the API key.
+This project won't work as planned because I have currently removed the API key.
 The api I used for this is subscription based and exceeding the daily limit usage would cost my pocket.
 
 </br>
